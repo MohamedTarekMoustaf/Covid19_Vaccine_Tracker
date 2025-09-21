@@ -17,9 +17,9 @@ Country-Level Breakdown: A bar chart displaying vaccination rates for individual
 
 Power BI Desktop: The primary tool used for data modeling, visualization, and report creation.
 
-[List your data source(s), for example: "Microsoft Excel," "SQL Server," or "CSV files."]
+"Microsoft Excel," "SQL Server," or "CSV files".
 
-[Mention any other tools or languages used, for example: "DAX for custom measures" or "Power Query for data transformation."]
+"DAX for custom measures" or "Power Query for data transformation"
 
 **Getting Started**
 
