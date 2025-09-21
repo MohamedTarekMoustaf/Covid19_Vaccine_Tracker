@@ -25,16 +25,16 @@ Power BI Desktop: The primary tool used for data modeling, visualization, and re
 
 To view and interact with this dashboard, you will need Power BI Desktop.
 
-Clone the repository:
+**Clone the repository:**
 
-git clone [Your Repository URL]
+git clone Your Repository: https://github.com/MohamedTarekMoustaf/Covid19_Vaccine_Tracker/tree/main
 Open the file:
 Navigate to the cloned directory and open the Covid19_Vaccine_Tracker.pbix file in Power BI Desktop.
 
-Explore the data:
+**Explore the data:**
 
 Interact with the report by clicking on the continent buttons to see vaccination progress in specific regions.
 
-Data Source
+**Data Source**
 
 The data for this dashboard is sourced from https://raw.githubusercontent.com/owid/covid-19-data/refs/heads/master/public/data/owid-covid-data.csv and https://raw.githubusercontent.com/owid/covid-19-data/refs/heads/master/public/data/vaccinations/vaccinations.csv.
