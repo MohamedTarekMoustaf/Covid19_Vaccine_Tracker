@@ -1,5 +1,6 @@
 # Covid19_Vaccine_Tracker
 Project Description
+
 This repository contains a dynamic and interactive dashboard created with Power BI to track and visualize COVID-19 vaccination data globally. The dashboard allows users to explore vaccination rates by continent and country, providing a clear overview of the progress in the global vaccination effort.
 
 <img width="1920" height="1080" alt="Screenshot (730)" src="https://github.com/user-attachments/assets/c5feed9b-4926-4bb5-a7fd-dd7472b93d3c" />
